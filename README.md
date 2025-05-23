@@ -37,3 +37,18 @@ The dataset includes customer information such as:
 - Jupyter Notebook
 
 ---
+## 📈 Output Visualizations
+
+**Classification Report**  
+![Classification Report](docs/classification_report.png)
+
+**ROC Curve**  
+![ROC Curve](docs/roc_curve.png)
+
+**Recall Curve**  
+![Recall Curve](docs/recall_curve.png)
+
+**Confusion Matrix**  
+![Confusion Matrix](docs/confusion_matrix.png)
+
+
