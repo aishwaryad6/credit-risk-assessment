@@ -1,4 +1,4 @@
-#Credit Risk Assessment with Neural Networks
+# Credit Risk Assessment with Neural Networks 
 
 This project uses a neural network to assess credit risk based on historical loan data. The goal is to classify whether a loan application is high or low risk using various financial and demographic input features.
 
